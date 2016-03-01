@@ -2,7 +2,43 @@
 	"folders":
 	[
 		{
+			"path": "D:\\Users\\iceStone\\Documents\\WorkSpace\\Courses\\html5\\source\\06-offline&storage\\note"
+		},
+		{
+			"path": "D:\\Users\\iceStone\\Documents\\Repositories\\todomvc\\examples\\angularjs"
+		},
+		{
+			"path": "D:\\Users\\iceStone\\Documents\\Learning\\micua-demo"
+		},
+		{
+			"path": "C:\\Users\\iceStone\\Documents\\Repositories\\win32-x64\\resources\\app\\data"
+		},
+		{
+			"path": "C:\\Users\\iceStone\\Documents\\Repositories\\itcast-evaluation\\resources\\data"
+		},
+		{
+			"path": "C:\\Users\\iceStone\\Documents\\Repositories\\itcast-evaluation\\resources"
+		},
+		{
+			"path": "C:\\Users\\iceStone\\Documents\\Repositories\\itcast-evaluation\\front"
+		},
+		{
+			"path": "C:\\Users\\iceStone\\Documents\\Repositories\\itcast-evaluation"
+		},
+		{
 			"path": "C:\\Users\\iceStone\\Documents\\Repositories\\home"
+		},
+		{
+			"path": "C:\\Users\\iceStone\\Documents\\Repositories\\Evaluation\\win_v2.1_x64\\resources\\data"
+		},
+		{
+			"path": "C:\\Users\\iceStone\\Documents\\Repositories\\dist\\win_v2.1_x64\\resources\\data"
+		},
+		{
+			"path": "C:\\Users\\iceStone\\Documents\\Repositories\\dist\\win_v2.1_x64\\resources"
+		},
+		{
+			"path": "C:\\Users\\iceStone\\Documents\\Repositories\\angular-boilerplate"
 		},
 		{
 			"path": "C:\\Users\\iceStone\\Desktop\\playground\\git"
@@ -14,6 +50,15 @@
 			"path": "C:\\Users\\iceStone\\Desktop\\modularization"
 		},
 		{
+			"path": "C:\\Users\\iceStone\\Desktop\\fed01\\node_modules\\cli-clear"
+		},
+		{
+			"path": "C:\\Users\\iceStone\\Desktop\\fed01\\content"
+		},
+		{
+			"path": "C:\\Users\\iceStone\\Desktop\\angular\\libraries\\angular-1.5.0"
+		},
+		{
 			"path": "C:\\Users\\iceStone\\Desktop\\angular\\libraries\\angular-1.4.9\\docs"
 		},
 		{
@@ -23,7 +68,16 @@
 			"path": "C:\\Users\\iceStone\\Desktop\\angular\\demo\\angular-moviecat"
 		},
 		{
+			"path": "C:\\Users\\iceStone\\Desktop\\2016-02-28"
+		},
+		{
+			"path": "C:\\Users\\iceStone\\Desktop\\2016-02-19\\moviecat"
+		},
+		{
 			"path": "C:\\Users\\iceStone\\Desktop\\2016-02-19"
+		},
+		{
+			"path": "C:\\Users\\iceStone\\Desktop\\2016-02-17\\moviecat\\app"
 		},
 		{
 			"path": "C:\\Users\\iceStone\\Desktop\\2016-02-17"
@@ -39,6 +93,9 @@
 		},
 		{
 			"path": "C:\\Users\\iceStone"
+		},
+		{
+			"path": "\\\\vmware-host\\Shared Folders\\文稿\\Learning\\playground\\2016-01-26"
 		}
 	]
 }

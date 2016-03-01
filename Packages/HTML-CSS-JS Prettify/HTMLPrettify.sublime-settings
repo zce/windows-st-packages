@@ -3,7 +3,7 @@
   // https://github.com/victorporof/Sublime-HTMLPrettify#oh-noez-command-not-found
   // http://nodejs.org/#download
   "node_path": {
-    "windows": "C:/Program Files/nodejs/node.exe",
+    "windows": "%NVM_SYMLINK%/node.exe",
     "linux": "/usr/bin/nodejs",
     "osx": "/usr/local/bin/node"
   },
@@ -12,8 +12,8 @@
   "format_on_save": false,
 
   // Only format the selection if there's one available.
-  "format_selection_only": true,
+  "format_selection_only": false,
 
   // Log the settings passed to the prettifier from `.jsbeautifyrc`.
-  "print_diagnostics": true
+  "print_diagnostics": false
 }

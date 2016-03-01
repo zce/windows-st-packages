@@ -42,7 +42,8 @@
 		"*.psd",
 		"*.db",
 		"*.sublime-workspace",
-		"*.sublime-project"
+		"*.sublime-project",
+		"~$*"
 	],
 	"folder_exclude_patterns":
 	[
@@ -56,14 +57,14 @@
 	"font_options":
 	[
 	],
-	"font_size": 18,
+	"font_size": 23,
 	"gutter": true,
 	"highlight_line": true,
 	"ignored_packages":
 	[
+		"AngularJS",
 		"Babel Snippets",
 		"JavaScript",
-		"Markdown",
 		"React ES6 Snippets",
 		"React Templates",
 		"react-native-snippets",
@@ -83,9 +84,9 @@
 	"material_theme_bold_tab": true,
 	"material_theme_compact_sidebar": true,
 	"material_theme_contrast_mode": true,
-	"material_theme_disable_fileicons": true,
-	"material_theme_disable_folder_animation": true,
-	"material_theme_disable_tree_indicator": true,
+	"material_theme_disable_fileicons": false,
+	"material_theme_disable_folder_animation": false,
+	"material_theme_disable_tree_indicator": false,
 	"material_theme_panel_separator": true,
 	"material_theme_small_statusbar": true,
 	"material_theme_small_tab": true,
