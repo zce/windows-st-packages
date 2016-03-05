@@ -57,7 +57,7 @@
 	"font_options":
 	[
 	],
-	"font_size": 23,
+	"font_size": 15,
 	"gutter": true,
 	"highlight_line": true,
 	"ignored_packages":

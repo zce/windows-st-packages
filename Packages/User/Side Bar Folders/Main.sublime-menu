@@ -11,6 +11,7 @@
 			{ "caption": "-", "id": "edit" },
 			{ "command": "open_file", "args": { "file": "${packages}/User/Side Bar Folders.sublime-settings" }, "caption": "Edit Folders"},
 			{ "command": "side_bar_folders_sidebar_clear", "caption": "Clear Sidebar"},
+			{ "command": "side_bar_folders_remove_current", "caption": "Remove Current Folder"},
 			{ "caption": "-" , "id": "history" },
 			{
 				"caption": "Append Folder",
@@ -50,6 +51,14 @@
 					{ "command": "side_bar_folders_load", "args":{ "index": 29, "append": true }},
 					{ "command": "side_bar_folders_load", "args":{ "index": 30, "append": true }},
 					{ "command": "side_bar_folders_load", "args":{ "index": 31, "append": true }},
+					{ "command": "side_bar_folders_load", "args":{ "index": 32, "append": true }},
+					{ "command": "side_bar_folders_load", "args":{ "index": 33, "append": true }},
+					{ "command": "side_bar_folders_load", "args":{ "index": 34, "append": true }},
+					{ "command": "side_bar_folders_load", "args":{ "index": 35, "append": true }},
+					{ "command": "side_bar_folders_load", "args":{ "index": 36, "append": true }},
+					{ "command": "side_bar_folders_load", "args":{ "index": 37, "append": true }},
+					{ "command": "side_bar_folders_load", "args":{ "index": 38, "append": true }},
+					{ "command": "side_bar_folders_load", "args":{ "index": 39, "append": true }},
 				]
 			},
 			// Folder history goes here
@@ -86,6 +95,14 @@
 			{ "command": "side_bar_folders_load", "args":{ "index": 29 }},
 			{ "command": "side_bar_folders_load", "args":{ "index": 30 }},
 			{ "command": "side_bar_folders_load", "args":{ "index": 31 }},
+			{ "command": "side_bar_folders_load", "args":{ "index": 32 }},
+			{ "command": "side_bar_folders_load", "args":{ "index": 33 }},
+			{ "command": "side_bar_folders_load", "args":{ "index": 34 }},
+			{ "command": "side_bar_folders_load", "args":{ "index": 35 }},
+			{ "command": "side_bar_folders_load", "args":{ "index": 36 }},
+			{ "command": "side_bar_folders_load", "args":{ "index": 37 }},
+			{ "command": "side_bar_folders_load", "args":{ "index": 38 }},
+			{ "command": "side_bar_folders_load", "args":{ "index": 39 }},
 			{ "caption": "-" , "id": "options" },
 			{ "command": "side_bar_folders_audit_all", "caption": "Clear Missing Folders"},
 			{ "caption": "-" , "id": "end" }
