@@ -17,9 +17,10 @@
 	"centurion_color_orange": true,
 	"centurion_color_red": true,
 	"centurion_color_yellow": true,
-	"color_scheme": "Packages/Color Scheme - Default/Solarized (Light).tmTheme",
+	"color_scheme": "Packages/Material Theme/schemes/Material-Theme.tmTheme",
 	"dpi_scale": 1.0,
 	"enable_tab_scrolling": true,
+	"ensure_newline_at_eof_on_save": true,
 	"file_exclude_patterns":
 	[
 		"*.pyc",
@@ -53,11 +54,11 @@
 		"CVS",
 		".idea"
 	],
-	"font_face": "Source Code Pro",
+	"font_face": "Consolas",
 	"font_options":
 	[
 	],
-	"font_size": 15,
+	"font_size": 17,
 	"gutter": true,
 	"highlight_line": true,
 	"ignored_packages":
@@ -65,6 +66,7 @@
 		"AngularJS",
 		"Babel Snippets",
 		"JavaScript",
+		"JavaScript & NodeJS Snippets",
 		"React ES6 Snippets",
 		"React Templates",
 		"react-native-snippets",
@@ -90,7 +92,7 @@
 	"material_theme_panel_separator": true,
 	"material_theme_small_statusbar": true,
 	"material_theme_small_tab": true,
-	"material_theme_tabs_autowidth": true,
+	"material_theme_tabs_autowidth": false,
 	"material_theme_tabs_separator": true,
 	"material_theme_tree_headings": true,
 	"overlay_scroll_bars": "enabled",
@@ -111,7 +113,7 @@
 	"spacegray_tabs_font_normal": true,
 	"spacegray_tabs_large": true,
 	"tab_size": 2,
-	"theme": "Soda Light 3.sublime-theme",
+	"theme": "Material-Theme.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
 	"use_simple_full_screen": true
