@@ -57,8 +57,10 @@
 	"font_face": "Consolas",
 	"font_options":
 	[
+		"gray_antialias",
+		"subpixel_antialias"
 	],
-	"font_size": 17,
+	"font_size": 19,
 	"gutter": true,
 	"highlight_line": true,
 	"ignored_packages":
