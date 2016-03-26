@@ -17,7 +17,7 @@
 	"centurion_color_orange": true,
 	"centurion_color_red": true,
 	"centurion_color_yellow": true,
-	"color_scheme": "Packages/Material Theme/schemes/Material-Theme.tmTheme",
+	"color_scheme": "Packages/Color Scheme - Default/Solarized (Light).tmTheme",
 	"dpi_scale": 1.0,
 	"enable_tab_scrolling": true,
 	"ensure_newline_at_eof_on_save": true,
@@ -60,12 +60,11 @@
 		"gray_antialias",
 		"subpixel_antialias"
 	],
-	"font_size": 19,
+	"font_size": 18,
 	"gutter": true,
 	"highlight_line": true,
 	"ignored_packages":
 	[
-		"AngularJS",
 		"Babel Snippets",
 		"JavaScript",
 		"JavaScript & NodeJS Snippets",
@@ -115,7 +114,7 @@
 	"spacegray_tabs_font_normal": true,
 	"spacegray_tabs_large": true,
 	"tab_size": 2,
-	"theme": "Material-Theme.sublime-theme",
+	"theme": "Soda Light 3.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
 	"use_simple_full_screen": true

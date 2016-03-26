@@ -2,7 +2,52 @@
 	"folders":
 	[
 		{
+			"path": "D:\\fed02\\temp\\2016-01-29\\demo"
+		},
+		{
+			"path": "D:\\fed02\\day03"
+		},
+		{
+			"path": "D:\\fed02\\day02\\code"
+		},
+		{
+			"path": "D:\\fed02\\day02"
+		},
+		{
+			"path": "D:\\fed02\\day01\\code"
+		},
+		{
+			"path": "D:\\fed02\\day01"
+		},
+		{
+			"path": "D:\\fed02\\angular\\sources\\directive"
+		},
+		{
+			"path": "D:\\fed02\\angular\\sources"
+		},
+		{
+			"path": "D:\\fed02\\angular\\libraries\\angular-1.5.2"
+		},
+		{
+			"path": "D:\\fed01\\day10\\email"
+		},
+		{
+			"path": "D:\\fed01\\day10\\code\\myblog"
+		},
+		{
+			"path": "D:\\fed01\\day10\\code\\koa-demo"
+		},
+		{
 			"path": "D:\\fed01\\day10"
+		},
+		{
+			"path": "D:\\fed01\\day09\\code\\myblog.old"
+		},
+		{
+			"path": "D:\\fed01\\day09\\code\\myblog"
+		},
+		{
+			"path": "D:\\fed01\\day09\\code\\demo"
 		},
 		{
 			"path": "D:\\fed01\\day09\\blog\\myblog"
@@ -44,7 +89,28 @@
 			"path": "D:\\fed01\\content\\res\\day04\\code\\crud"
 		},
 		{
+			"path": "C:\\Users\\iceStone\\Downloads\\socket.io-master\\examples\\chat"
+		},
+		{
+			"path": "C:\\Users\\iceStone\\Documents\\GitHub\\itcast-evaluation"
+		},
+		{
+			"path": "C:\\Users\\iceStone\\Documents\\GitHub\\Home"
+		},
+		{
+			"path": "C:\\Users\\iceStone\\Documents\\GitHub\\chrome-markdown"
+		},
+		{
+			"path": "C:\\Users\\iceStone\\Desktop\\todomvc"
+		},
+		{
 			"path": "C:\\Users\\iceStone"
+		},
+		{
+			"path": "C:\\Application\\Itcast\\Evaluation\\resources\\app\\data"
+		},
+		{
+			"path": "C:\\Application\\Itcast\\Evaluation\\resources\\app"
 		}
 	]
 }
