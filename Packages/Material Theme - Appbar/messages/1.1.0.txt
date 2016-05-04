@@ -16,7 +16,7 @@ https://github.com/equinusocio/material-theme-appbar
 
   {
     ...
-    "material_theme_appbar_indigo: true"
+    "material_theme_appbar_indigo": true,
     ...
   }
 
