@@ -1,0 +1,17 @@
+{
+	"PATH":
+	[
+	],
+	"command":
+	[
+		"standard-format",
+		"--stdin"
+	],
+	"extensions":
+	[
+		"js",
+		"json"
+	],
+	"format_on_save": false,
+	"loud_error": false
+}
