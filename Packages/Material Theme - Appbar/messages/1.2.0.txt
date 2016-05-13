@@ -14,8 +14,8 @@ https://github.com/equinusocio/material-theme-appbar
   !! IMPORTANT NOTE !!
   ⏟⏟⏟⏟⏟⏟⏟⏟⏟⏟⏟⏟⏟⏟⏟⏟⏟⏟⏟⏟⏟⏟⏟⏟⏟⏟⏟⏟⏟⏟⏟⏟⏟⏟⏟⏟⏟⏟⏟⏟⏟⏟⏟⏟⏟⏟⏟⏟⏟⏟⏟⏟⏟⏟⏟⏟⏟⏟⏟⏟⏟⏟
 
-  FThe appbar doesn't get anymore the color from the material theme accent preference.
-  So, if yuou want ex. indigo tint, you have to set the color separately by adding:
+  The appbar doesn't get anymore the color from the material theme accent preference.
+  So, if you want ex. indigo tint, you have to set the color separately by adding:
 
   {
     ...

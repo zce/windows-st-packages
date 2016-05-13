@@ -2,6 +2,8 @@
  * Options override
 ========================================================================= */
 
+  // Default appaerance
+
   {
     "class": "sidebar_container",
     "settings": ["material_theme_small_tab", "enable_tab_scrolling"],
