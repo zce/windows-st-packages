@@ -68,12 +68,15 @@
 		"Babel Snippets",
 		"JavaScript",
 		"JavaScript & NodeJS Snippets",
+		"Material Theme",
 		"React ES6 Snippets",
 		"React Templates",
 		"react-native-snippets",
 		"ReactJS",
 		"ReactJS Snippets",
-		"Vintage"
+		"Terminal",
+		"Vintage",
+		"Xtemplate"
 	],
 	"indent_guide_options":
 	[

@@ -2,6 +2,9 @@
 	"bootstrapped": true,
 	"in_process_packages":
 	[
+		"Material Theme",
+		"Terminal",
+		"Xtemplate"
 	],
 	"installed_packages":
 	[
