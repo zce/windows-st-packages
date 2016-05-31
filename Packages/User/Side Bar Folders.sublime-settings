@@ -2,34 +2,7 @@
 	"folders":
 	[
 		{
-			"path": "D:\\fed03\\day01"
-		},
-		{
-			"path": "D:\\fed02\\day05"
-		},
-		{
-			"path": "D:\\fed02\\day04"
-		},
-		{
-			"path": "D:\\fed02\\day03"
-		},
-		{
-			"path": "D:\\fed02\\day02"
-		},
-		{
-			"path": "D:\\fed02\\day01"
-		},
-		{
-			"path": "D:\\fed01\\day10"
-		},
-		{
-			"path": "D:\\fed01\\day09"
-		},
-		{
-			"path": "D:\\fed01\\day08"
-		},
-		{
-			"path": "D:\\fed01\\day07"
+			"path": "C:\\Windows\\System32\\drivers"
 		},
 		{
 			"path": "C:\\Users\\iceStone\\Documents\\GitHub\\itcast-tms"
@@ -45,12 +18,6 @@
 		},
 		{
 			"path": "C:\\Users\\iceStone"
-		},
-		{
-			"path": "C:\\Application\\Itcast\\Evaluation\\resources\\app\\data"
-		},
-		{
-			"path": "C:\\Application\\Itcast\\Evaluation\\resources\\app"
 		}
 	]
 }
