@@ -2,58 +2,76 @@
 	"folders":
 	[
 		{
-			"path": "D:\\Itcast\\fed01\\day10\\myblog"
+			"path": "D:\\Prepare\\chatroom"
 		},
 		{
-			"path": "C:\\Windows\\System32\\drivers"
+			"path": "C:\\Users\\iceStone\\Documents\\Repositories\\vue-music"
 		},
 		{
-			"path": "C:\\Users\\iceStone\\Downloads\\wedn.net"
+			"path": "C:\\Users\\iceStone\\Documents\\Repositories\\myapp"
 		},
 		{
-			"path": "C:\\Users\\iceStone\\Documents\\Repositories\\itcast-shop"
+			"path": "C:\\Users\\iceStone\\Documents\\Repositories\\itcast-tms"
+		},
+		{
+			"path": "C:\\Users\\iceStone\\Documents\\Repositories\\home"
 		},
 		{
 			"path": "C:\\Users\\iceStone\\Documents\\Repositories\\e-commerce"
 		},
 		{
-			"path": "C:\\Users\\iceStone\\Documents\\Repositories\\demo"
-		},
-		{
-			"path": "C:\\Users\\iceStone\\Documents\\Repositories"
-		},
-		{
-			"path": "C:\\Users\\iceStone\\Documents\\GitHub\\itcast-tms"
-		},
-		{
-			"path": "C:\\Users\\iceStone\\Documents\\GitHub\\Home"
+			"path": "C:\\Users\\iceStone\\Documents\\Learning\\vue-demo"
 		},
 		{
 			"path": "C:\\Users\\iceStone\\Documents\\GitHub\\chrome-markdown"
 		},
 		{
-			"path": "C:\\Users\\iceStone\\Documents\\GitHub\\angular-boilerplate"
+			"path": "C:\\Users\\iceStone\\Desktop\\music-player\\client"
 		},
 		{
-			"path": "C:\\Users\\iceStone\\Desktop\\项目"
+			"path": "C:\\Users\\iceStone\\Desktop\\music-player"
 		},
 		{
-			"path": "C:\\Users\\iceStone\\Desktop\\sell-shop-preview"
+			"path": "C:\\Users\\iceStone\\Desktop\\mongo"
 		},
 		{
-			"path": "C:\\Users\\iceStone\\Desktop\\sell-shop"
+			"path": "C:\\Users\\iceStone\\Desktop\\electron-quick-start"
 		},
 		{
-			"path": "C:\\Users\\iceStone\\Desktop\\movie"
+			"path": "C:\\Users\\iceStone\\Desktop\\day06\\resources\\music-player"
 		},
 		{
-			"path": "C:\\Users\\iceStone\\Desktop\\demo"
+			"path": "C:\\Users\\iceStone\\Desktop\\day06"
 		},
 		{
-			"path": "C:\\Users\\iceStone\\Desktop\\codecarnival\\codecarnival.net\\html\\sell-shop-preview"
+			"path": "C:\\Users\\iceStone\\Desktop\\day05\\resources\\itcast-shop"
 		},
 		{
-			"path": "C:\\Users\\iceStone"
+			"path": "C:\\Users\\iceStone\\Desktop\\day05"
+		},
+		{
+			"path": "C:\\Users\\iceStone\\Desktop\\day04\\resources\\mongoose-master\\docs"
+		},
+		{
+			"path": "C:\\Users\\iceStone\\Desktop\\day04\\resources\\itcast-shop\\src"
+		},
+		{
+			"path": "C:\\Users\\iceStone\\Desktop\\day04\\resources\\itcast-shop"
+		},
+		{
+			"path": "C:\\Users\\iceStone\\Desktop\\day04"
+		},
+		{
+			"path": "C:\\Users\\iceStone\\Desktop\\day03\\resources\\itcast-shop"
+		},
+		{
+			"path": "C:\\Users\\iceStone\\Desktop\\day03\\resources\\example-node-server-master"
+		},
+		{
+			"path": "C:\\Users\\iceStone\\Desktop\\day03"
+		},
+		{
+			"path": "C:\\Users\\iceStone\\Desktop"
 		}
 	]
 }

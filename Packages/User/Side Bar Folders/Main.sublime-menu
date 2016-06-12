@@ -37,6 +37,12 @@
 					{ "command": "side_bar_folders_load", "args":{ "index": 15, "append": true }},
 					{ "command": "side_bar_folders_load", "args":{ "index": 16, "append": true }},
 					{ "command": "side_bar_folders_load", "args":{ "index": 17, "append": true }},
+					{ "command": "side_bar_folders_load", "args":{ "index": 18, "append": true }},
+					{ "command": "side_bar_folders_load", "args":{ "index": 19, "append": true }},
+					{ "command": "side_bar_folders_load", "args":{ "index": 20, "append": true }},
+					{ "command": "side_bar_folders_load", "args":{ "index": 21, "append": true }},
+					{ "command": "side_bar_folders_load", "args":{ "index": 22, "append": true }},
+					{ "command": "side_bar_folders_load", "args":{ "index": 23, "append": true }},
 				]
 			},
 			// Folder history goes here
@@ -59,6 +65,12 @@
 			{ "command": "side_bar_folders_load", "args":{ "index": 15 }},
 			{ "command": "side_bar_folders_load", "args":{ "index": 16 }},
 			{ "command": "side_bar_folders_load", "args":{ "index": 17 }},
+			{ "command": "side_bar_folders_load", "args":{ "index": 18 }},
+			{ "command": "side_bar_folders_load", "args":{ "index": 19 }},
+			{ "command": "side_bar_folders_load", "args":{ "index": 20 }},
+			{ "command": "side_bar_folders_load", "args":{ "index": 21 }},
+			{ "command": "side_bar_folders_load", "args":{ "index": 22 }},
+			{ "command": "side_bar_folders_load", "args":{ "index": 23 }},
 			{ "caption": "-" , "id": "options" },
 			{ "command": "side_bar_folders_audit_all", "caption": "Clear Missing Folders"},
 			{ "caption": "-" , "id": "end" }
