@@ -17,7 +17,7 @@
 	"centurion_color_orange": true,
 	"centurion_color_red": true,
 	"centurion_color_yellow": true,
-	"color_scheme": "Packages/User/iceStone/Default.tmTheme",
+	"color_scheme": "Packages/iceStone/Default.tmTheme",
 	"dpi_scale": 1.0,
 	"enable_tab_scrolling": true,
 	"ensure_newline_at_eof_on_save": true,
@@ -68,6 +68,7 @@
 	[
 		"All Autocomplete",
 		"Babel Snippets",
+		"ColorPicker",
 		"Http Requester",
 		"JavaScript",
 		"JavaScript & NodeJS Snippets",
