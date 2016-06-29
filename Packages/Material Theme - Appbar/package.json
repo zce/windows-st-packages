@@ -1,6 +1,6 @@
 {
   "name": "init",
-  "version": "1.9.9",
+  "version": "1.2.2",
   "description": "Material Theme for Sublime Text 3",
   "main": "index.js",
   "dependencies": {},

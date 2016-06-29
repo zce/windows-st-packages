@@ -67,6 +67,8 @@
 	"ignored_packages":
 	[
 		"All Autocomplete",
+		"AngularJS",
+		"AVA",
 		"Babel Snippets",
 		"ColorPicker",
 		"Http Requester",
@@ -79,6 +81,7 @@
 		"react-native-snippets",
 		"ReactJS",
 		"ReactJS Snippets",
+		"Terminal",
 		"TodoReview",
 		"Vintage"
 	],
@@ -110,7 +113,7 @@
 		80,
 		100
 	],
-	"save_on_focus_lost": true,
+	"save_on_focus_lost": false,
 	"scroll_past_end": true,
 	"scroll_speed": 5,
 	"soda_classic_tabs": false,

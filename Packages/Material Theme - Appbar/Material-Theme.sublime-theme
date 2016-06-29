@@ -1,5 +1,5 @@
 [
- 
+
 /* @TABS
  * Tabs settings and behavioring
 ========================================================================= */
@@ -109,7 +109,6 @@
   // Tab Close Buttons
   {
     "class": "tab_close_button",
-    "settings": ["show_tab_close_buttons"],
     "content_margin": [8,8],
 
      // Close Icon
@@ -747,5 +746,5 @@
   },
 
 
- 
+
 ]

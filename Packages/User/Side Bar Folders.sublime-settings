@@ -2,7 +2,7 @@
 	"folders":
 	[
 		{
-			"path": "D:\\Prepare\\chatroom"
+			"path": "C:\\Users\\zce\\Documents\\WorkSpace\\Itcast\\open-class\\2016-07"
 		},
 		{
 			"path": "C:\\Users\\zce\\Documents\\Repositories\\wedn.net"
@@ -11,79 +11,58 @@
 			"path": "C:\\Users\\zce\\Documents\\Repositories\\nvm-windows"
 		},
 		{
+			"path": "C:\\Users\\zce\\Documents\\Repositories\\music-player-pages"
+		},
+		{
 			"path": "C:\\Users\\zce\\Documents\\Repositories\\music-player"
+		},
+		{
+			"path": "C:\\Users\\zce\\Documents\\Repositories\\learning-webpack"
+		},
+		{
+			"path": "C:\\Users\\zce\\Documents\\Repositories\\electron-boilerplate"
 		},
 		{
 			"path": "C:\\Users\\zce\\Documents\\Repositories\\chrome-markdown"
 		},
 		{
-			"path": "C:\\Users\\iceStone\\Documents\\Repositories\\vue-music"
+			"path": "C:\\Users\\zce\\Documents\\Learning\\webpack\\demo1"
 		},
 		{
-			"path": "C:\\Users\\iceStone\\Documents\\Repositories\\myapp"
+			"path": "C:\\Users\\zce\\Documents\\Learning\\vue\\demo2"
 		},
 		{
-			"path": "C:\\Users\\iceStone\\Documents\\Repositories\\itcast-tms"
+			"path": "C:\\Users\\zce\\Documents\\Learning\\rollup\\demo1"
 		},
 		{
-			"path": "C:\\Users\\iceStone\\Documents\\Repositories\\home"
+			"path": "C:\\Users\\zce\\Desktop\\vue\\demo\\webpack-demo2"
 		},
 		{
-			"path": "C:\\Users\\iceStone\\Documents\\Repositories\\e-commerce"
+			"path": "C:\\Users\\zce\\Desktop\\vue\\demo\\webpack-demo"
 		},
 		{
-			"path": "C:\\Users\\iceStone\\Documents\\Learning\\vue-demo"
+			"path": "C:\\Users\\zce\\Desktop\\vue\\demo\\simple-demo"
 		},
 		{
-			"path": "C:\\Users\\iceStone\\Documents\\GitHub\\chrome-markdown"
+			"path": "C:\\Users\\zce\\Desktop\\vue\\demo\\music-player"
 		},
 		{
-			"path": "C:\\Users\\iceStone\\Desktop\\music-player\\client"
+			"path": "C:\\Users\\zce\\Desktop\\vue\\demo\\browserify-demo"
 		},
 		{
-			"path": "C:\\Users\\iceStone\\Desktop\\music-player"
+			"path": "C:\\Users\\zce\\Desktop\\vue\\code\\client"
 		},
 		{
-			"path": "C:\\Users\\iceStone\\Desktop\\mongo"
+			"path": "C:\\Users\\zce\\Desktop\\vue"
 		},
 		{
-			"path": "C:\\Users\\iceStone\\Desktop\\electron-quick-start"
+			"path": "C:\\Users\\zce\\Desktop\\electron-vue"
 		},
 		{
-			"path": "C:\\Users\\iceStone\\Desktop\\day06\\resources\\music-player"
+			"path": "C:\\Users\\zce\\Desktop\\electron-updater-sample-master"
 		},
 		{
-			"path": "C:\\Users\\iceStone\\Desktop\\day06"
-		},
-		{
-			"path": "C:\\Users\\iceStone\\Desktop\\day05\\resources\\itcast-shop"
-		},
-		{
-			"path": "C:\\Users\\iceStone\\Desktop\\day05"
-		},
-		{
-			"path": "C:\\Users\\iceStone\\Desktop\\day04\\resources\\mongoose-master\\docs"
-		},
-		{
-			"path": "C:\\Users\\iceStone\\Desktop\\day04\\resources\\itcast-shop\\src"
-		},
-		{
-			"path": "C:\\Users\\iceStone\\Desktop\\day04\\resources\\itcast-shop"
-		},
-		{
-			"path": "C:\\Users\\iceStone\\Desktop\\day04"
-		},
-		{
-			"path": "C:\\Users\\iceStone\\Desktop\\day03\\resources\\itcast-shop"
-		},
-		{
-			"path": "C:\\Users\\iceStone\\Desktop\\day03\\resources\\example-node-server-master"
-		},
-		{
-			"path": "C:\\Users\\iceStone\\Desktop\\day03"
-		},
-		{
-			"path": "C:\\Users\\iceStone\\Desktop"
+			"path": "C:\\Users\\zce\\Desktop\\electron-boilerplate"
 		}
 	]
 }

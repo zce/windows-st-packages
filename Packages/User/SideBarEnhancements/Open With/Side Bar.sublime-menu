@@ -8,7 +8,7 @@
       "command": "side_bar_files_open_with",
       "args": {
         "paths": [],
-        "application": "C:/Users/iceStone/AppData/Local/Google/Chrome/Application/chrome.exe",
+        "application": "C:/Users/zce/AppData/Local/Google/Chrome/Application/chrome.exe",
         "extensions": ".*", //any file with extension
         "args": []
       },
@@ -17,6 +17,18 @@
     //separator
     {
       "caption": "-"
+    },
+    {
+      "caption": "Command",
+      "id": "side-bar-files-open-with-command",
+      "command": "side_bar_files_open_with",
+      "args": {
+        "paths": [],
+        "application": "C:/Windows/System32/cmd.exe",
+        // "extensions": ".*", //any file with extension
+        "args": []
+      },
+      "open_automatically": false // will close the view/tab and launch the application
     }
   ]
 }]
